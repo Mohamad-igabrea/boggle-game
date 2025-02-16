@@ -1,0 +1,3 @@
+<we have made a username for the game to open and also printed to the screen the rules of the game before it starts.
+also we minimizied the words the words that could be be found from a given board and wrote to the game screen how many words you can find in this particular board.
+ when the player guesses a word right it turns out to be in a green color else it will still be black.>
