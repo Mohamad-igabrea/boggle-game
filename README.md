@@ -17,3 +17,5 @@ Valid Words:
 	+To save the word and earn points, press any green button.
 	
 💡 Try to find as many words as possible and maximize your score! 🎯
+
+****Run boggle.py to start the game****
